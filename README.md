@@ -3,6 +3,8 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Computer Science
 - ⚡ I'm improving my skills on TryHackMe and HackTheBox
+- 🌐 Really good at Networking
+- 🚀 Learn fast
 # Operating Systems
 ![image](https://github.com/AN0SCTF/AN0SCTF/assets/168984429/2ec36dbe-3f54-441b-8f42-ab8b33c3b3fa)
 ![image](https://github.com/AN0SCTF/AN0SCTF/assets/168984429/0a3b23e8-6bf7-4ae6-a74d-0b7579ae0c5a)
